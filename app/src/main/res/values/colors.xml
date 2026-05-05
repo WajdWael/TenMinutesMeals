@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- لوحة الألوان الخضراء العشبية -->
+    <color name="leaf_green">#4CAF50</color> <!-- اللون الأساسي للزر -->
+    <color name="mint_light">#F1F8E9</color> <!-- لون خلفية الشاشة -->
+    <color name="dark_text">#1B5E20</color> <!-- لون النصوص الغامق -->
+    <color name="white">#FFFFFF</color>
+</resources>
